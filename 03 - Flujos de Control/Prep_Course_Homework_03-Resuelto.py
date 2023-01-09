@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # ## Flujos de Control
-
+sandy
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla si es mayor o menor a cero
 
 # In[4]:
